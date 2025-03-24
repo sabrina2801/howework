@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.icon1{
+	background-image: url("./images/Rectangle 14.png");
+	opacity: 80%;
+}
+.icon2{
+	background-image: url("./images/Rectangle 15.png");
+	opacity: 80%;
+}
